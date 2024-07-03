@@ -1,1 +1,3 @@
-+90 TURKEY SMS BOOMBER TOOL
+Kurulumu pip install -r requirements.txt modulleri indirdikten sonra py eren.py yazmaniz yeterli
+
++90 TURKEY NUMBER SMS BOOMBER TOOL 🩵
